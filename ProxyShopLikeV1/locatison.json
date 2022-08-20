@@ -1,0 +1,69 @@
+{
+  "location": [
+    {
+      "id":"0",
+      "code":"random",
+      "name":"Random"
+    },
+    {
+      "id":"1",
+      "code":"Qn",
+      "name":"Quảng Ninh"
+    },
+    {
+      "id":"2",
+      "code":"Hp",
+      "name":"Hải Phòng"
+    },
+    {
+      "id":"3",
+      "code":"Hd",
+      "name":"Hải Dương"
+    },
+    {
+      "id":"4",
+      "code":"Hd2",
+      "name":"Hải Dương 2"
+    },
+    {
+      "id":"5",
+      "code":"Bn",
+      "name":"Bắc Ninh"
+    },
+    {
+      "id":"6",
+      "code":"Hy",
+      "name":"Hưng Yên"
+    },
+    {
+      "id":"7",
+      "code":"Nd",
+      "name":"Nam Định"
+    },
+    {
+      "id":"8",
+      "code":"Nb",
+      "name":"Ninh Bình"
+    },
+    {
+      "id":"9",
+      "code":"Tq",
+      "name":"Tuyên Quang"
+    },
+    {
+      "id":"10",
+      "code":"Dn",
+      "name":"Đà Nẵng"
+    },
+    {
+      "id":"11",
+      "code":"Hue",
+      "name":"Huế"
+    },
+    {
+      "id":"11",
+      "code":"Hcm",
+      "name":"Hồ Chí Minh"
+    }
+  ]
+}
